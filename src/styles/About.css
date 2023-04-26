@@ -1,0 +1,43 @@
+@font-face {
+    font-family: Vera Mono;
+    src: url(VeraMono.ttf);
+}
+
+.about-container  {
+    height: 130vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 3px;
+    
+  
+}
+pre {
+    background-color: white;
+    color: black;
+}
+.about-container span {
+    font-size: .8rem;
+    margin-top: 5%;
+    width: 40vw;
+    height: 30vh;
+    display: inline-block;
+    font-family: 'Courier New';
+    
+   
+}
+
+
+
+ 
+
+
+
+
+
+
+
+
+

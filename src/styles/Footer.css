@@ -1,0 +1,26 @@
+.footer {
+    min-height: 30vh;
+
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 3%;
+    padding-bottom: 1%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {   
+    
+}
+.footer-end {
+    
+    font-size: .9rem;
+    font-weight: 100;
+}
+a {
+   
+    font-weight: 100;
+    font-size: .9rem;
+}

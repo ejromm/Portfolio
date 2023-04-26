@@ -1,0 +1,11 @@
+.header {
+    min-height: 13vh;
+    width: 100vw;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-family: 'Lato'; 
+    font-weight: 700;
+    
+}
