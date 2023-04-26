@@ -11,9 +11,7 @@ export default function Film() {
             <Link to={'/film/screening'} page='film/untitled'>Screening (2023)</Link>
             </div>
             <div className='film-grid'>
-                <video  controls autoPlay muted>
-                    
-                </video>
+            <iframe src="https://player.vimeo.com/video/821107541?h=0a10cae31a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="ethan-ss.mp4"></iframe>
             </div>
         </div>
     )

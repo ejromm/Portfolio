@@ -6,9 +6,9 @@ export default function NavBar() {
     return (
         <>
         <nav>
-          <Link to={'/film/untitled'} page='film'>Film</Link>
-          <Link to={'/photo'} page='photo'>Photo</Link>
-          <Link to={'/about'} page='about'>About</Link>
+          <Link to={'/Senior-Portfolio-Page/film/untitled'} page='film'>Film</Link>
+          <Link to={'/Senior-Portfolio-Page/photo'} page='photo'>Photo</Link>
+          <Link to={'/Senior-Portfolio-Page/about'} page='about'>About</Link>
 
         </nav>
         </>

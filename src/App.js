@@ -18,11 +18,11 @@ export default function App() {
      <BrowserRouter>
      <Header />
      <Routes>
-     <Route  path='/' element={<Home />}/>
-     <Route  path='/photo' element={<Photo />} />
-     <Route  path='/film/untitled' element={<Film />}/>
-     <Route  path='/film/screening' element={<FilmTwo />}/>
-     <Route  path='/about' element={<About />}/>
+     <Route  path='/Senior-Portfolio-Page' element={<Home />}/>
+     <Route  path='/Senior-Portfolio-Page/photo' element={<Photo />} />
+     <Route  path='/Senior-Portfolio-Page/film/untitled' element={<Film />}/>
+     <Route  path='/Senior-Portfolio-Page/film/screening' element={<FilmTwo />}/>
+     <Route  path='/Senior-Portfolio-Page/about' element={<About />}/>
      </Routes>
      <Footer />
      </BrowserRouter>

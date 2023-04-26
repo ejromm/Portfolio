@@ -38,3 +38,10 @@ video {
     font-size: .8rem;
     font-weight: 100;
 }
+iframe {
+    position:absolute; 
+    width: 70vw;
+    height: 70vh;
+   
+}
+
