@@ -17,12 +17,13 @@
 pre {
     background-color: white;
     color: black;
+    margin-bottom: 5%;
 }
 .about-container span {
-    font-size: .8rem;
-    margin-top: 5%;
-    width: 40vw;
-    height: 30vh;
+    font-size: 1rem;
+    
+    width: 35vw;
+    height: 15vh;
     display: inline-block;
     font-family: 'Courier New';
     
