@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Senior-Portfolio-Page/static/css/main.c20faffa.css",
-    "main.js": "/Senior-Portfolio-Page/static/js/main.35c1a513.js",
+    "main.css": "/Senior-Portfolio-Page/static/css/main.71d03786.css",
+    "main.js": "/Senior-Portfolio-Page/static/js/main.604a1811.js",
+    "static/media/Final_RommEthan_0423-005.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-005.29592f1d1658048d7134.jpg",
+    "static/media/Final_RommEthan_0423-001.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-001.540c5d917b20d79e0ba5.jpg",
+    "static/media/Final_Romm_0322_002.jpg": "/Senior-Portfolio-Page/static/media/Final_Romm_0322_002.b28738625a6d0d167ec2.jpg",
     "static/media/Jordan-Portrait-1 copy.jpg": "/Senior-Portfolio-Page/static/media/Jordan-Portrait-1 copy.dfec54bfc1e0d45ab004.jpg",
+    "static/media/img20230430_16072906.jpg": "/Senior-Portfolio-Page/static/media/img20230430_16072906.b710051a8fba3c902df9.jpg",
     "static/media/img20230430_16315165.jpg": "/Senior-Portfolio-Page/static/media/img20230430_16315165.76578f3458ec77f3fc47.jpg",
     "static/media/VeraMono.ttf": "/Senior-Portfolio-Page/static/media/VeraMono.16fc2e6c12bb25ab34c1.ttf",
     "index.html": "/Senior-Portfolio-Page/index.html",
-    "main.c20faffa.css.map": "/Senior-Portfolio-Page/static/css/main.c20faffa.css.map",
-    "main.35c1a513.js.map": "/Senior-Portfolio-Page/static/js/main.35c1a513.js.map"
+    "main.71d03786.css.map": "/Senior-Portfolio-Page/static/css/main.71d03786.css.map",
+    "main.604a1811.js.map": "/Senior-Portfolio-Page/static/js/main.604a1811.js.map"
   },
   "entrypoints": [
-    "static/css/main.c20faffa.css",
-    "static/js/main.35c1a513.js"
+    "static/css/main.71d03786.css",
+    "static/js/main.604a1811.js"
   ]
 }
