@@ -15,7 +15,7 @@ export default function Footer() {
                 </div> 
                    
                 <div className='footer-end'>
-                    rommej@vcu.edu (571)-429-1610
+                    ejromm@gmail.com (571)-429-1610
                 </div>
                 <Link to={'/Senior-Portfolio-Page'} page='home'>GO HOME</Link>
                 </div>

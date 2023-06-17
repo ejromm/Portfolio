@@ -200,7 +200,7 @@ S........::..,.:.......,S@*%@#?@@@;.........................,,,:?##%???*:+;:,;?+
 
 
 <span>Ethan Romm is a multimedia artist working mainly in photography and filmmaking. Born and raised in Arlington, VA, He currently resides in Richmond, VA and is a recent graduate of film at Virginia Commonwealth University.</span>
-<span>His work, across all forms, focuses on growing up, introspection, and interpersonal relationships. He aims to distill the good and bad, but mostly bad qualities of American culture and human nature into his work.</span>
+
  </div>
     )
 }

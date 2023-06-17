@@ -21,7 +21,7 @@ export default function App() {
      <Route  path='/Senior-Portfolio-Page' element={<Home />}/>
      <Route  path='/Senior-Portfolio-Page/photo' element={<Photo />} />
      <Route  path='/Senior-Portfolio-Page/film/untitled' element={<Film />}/>
-     <Route  path='/Senior-Portfolio-Page/film/screening' element={<FilmTwo />}/>
+     <Route  path='/Senior-Portfolio-Page/film/interview' element={<FilmTwo />}/>
      <Route  path='/Senior-Portfolio-Page/about' element={<About />}/>
      </Routes>
      <Footer />

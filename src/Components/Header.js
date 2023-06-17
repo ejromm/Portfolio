@@ -7,7 +7,7 @@ export default function Header() {
     return (
         <>
          <div className='header'>
-          <span>Ethan</span>
+          <span>Ethan Romm</span>
          </div>
          
         </>

@@ -6,13 +6,11 @@ export default function FilmTwo() {
     return (
         <div className='film-container'>
             <div className='film-list-container'>
-            <Link to={'/film/untitled'} page='film/untitled'>Untitled (2023)</Link>
-            <Link to={'/film/screening'} page='film/untitled'><b>Screening (2023)</b></Link>
+            <Link to={'/Senior-Portfolio-Page/film/interview'} page='film'><b>Interview (2023)</b></Link>
+            <Link to={'/Senior-Portfolio-Page/film/untitled'} page='film'>Untitled (2022)</Link>
             </div>
             <div className='film-grid'>
-                <video  controls >
-                    
-                </video>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/by-Guu9kxKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
         </div>
     )
