@@ -9,6 +9,7 @@ import Photo from './pages/Photo';
 import PhotoTwo from './pages/Photo2';
 import Film from './pages/Film';
 import FilmTwo from './pages/FilmTwo';
+import FilmThree from './pages/FilmThree';
 import About from './pages/About'; 
 import Footer from './components/Footer';
 
@@ -24,6 +25,7 @@ export default function App() {
      <Route  path='/Senior-Portfolio-Page/photo/white-crosses' element={<PhotoTwo />} />
      <Route  path='/Senior-Portfolio-Page/film/untitled' element={<Film />}/>
      <Route  path='/Senior-Portfolio-Page/film/interview' element={<FilmTwo />}/>
+     <Route  path='/Senior-Portfolio-Page/film/nancyraygun' element={<FilmThree />}/>
      <Route  path='/Senior-Portfolio-Page/about' element={<About />}/>
      </Routes>
      <Footer />
