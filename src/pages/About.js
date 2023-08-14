@@ -199,7 +199,7 @@ S........::..,.:.......,S@*%@#?@@@;.........................,,,:?##%???*:+;:,;?+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,.....................................:;;:,...........,:::::::::::::::::::,<br/></pre>
 
 
-<span>Ethan Romm is a multimedia artist working mainly in photography and filmmaking. Born and raised in Arlington, VA, He currently resides in Richmond, VA and is a recent graduate of film at Virginia Commonwealth University.</span>
+<span>Ethan Romm is a multimedia artist working mainly in photography and filmmaking. Born and raised in Arlington, VA, He currently resides in New York, NY and is a recent graduate of film at Virginia Commonwealth University.</span>
 
  </div>
     )

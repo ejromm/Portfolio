@@ -1,36 +1,27 @@
 .photo-container {
-    height: 100vh;
-    width: 100vw;
+    
+    height: 70vh;
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    gap: 15px;
+}
+#parlor-card, #whitecross-card {
+  
+    height: 200px;
+    width: 200px;
     display: flex;
     flex-direction: column;
-
-    gap: 5%;
-}
-.photo-grid-1 {
-    height: 50vh;
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
     justify-content: center;
-    gap: 5%;
-    
-
+    align-items: center;
 }
-#sign-one {
-    width: auto;
-    height: 100%;
+#cross-placeholder {
+    object-fit: contain;
+    height: 80%;
 }
-.photo-grid-2 {
-    height: 50vh;
-    width: 100vw;
+.photo-2-container {
+    height: 85vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
-    gap: 5%;
+    align-items: center;
 }
-#sign-two {
-    width: auto;
-    height: 100%;
-    
-}
-

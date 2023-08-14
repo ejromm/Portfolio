@@ -6,6 +6,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Home from './pages/Home';
 import Photo from './pages/Photo';
+import PhotoTwo from './pages/Photo2';
 import Film from './pages/Film';
 import FilmTwo from './pages/FilmTwo';
 import About from './pages/About'; 
@@ -20,6 +21,7 @@ export default function App() {
      <Routes>
      <Route  path='/Senior-Portfolio-Page' element={<Home />}/>
      <Route  path='/Senior-Portfolio-Page/photo' element={<Photo />} />
+     <Route  path='/Senior-Portfolio-Page/photo/white-crosses' element={<PhotoTwo />} />
      <Route  path='/Senior-Portfolio-Page/film/untitled' element={<Film />}/>
      <Route  path='/Senior-Portfolio-Page/film/interview' element={<FilmTwo />}/>
      <Route  path='/Senior-Portfolio-Page/about' element={<About />}/>

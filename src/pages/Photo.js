@@ -1,5 +1,6 @@
 import React from 'react'; 
 import '../styles/Photo.css';
+import { Link } from 'react-router-dom';
 import Jordan from '../assets/Jordan-Portrait-1 copy.jpg'; 
 import SignOne from '../assets/img20230430_16315165.jpg'; 
 import Mirror from '../assets/Final_RommEthan_0423-001.jpg'; 
@@ -10,16 +11,12 @@ export default function Photo() {
 
     return (
         <div className='photo-container'>
-            <div className='photo-grid-1'>
-                <img id='jordan' src={Jordan} alt='jordan' />
-                <img id='sign-one' src={SignOne} alt='sign-one' />
-                <img id='mirror' src={Mirror} alt='mirror' />
-            </div>
-            <div className='photo-grid-2'>
-                 <img id='sign-two' src={SignTwo} alt='sign-two' />
-                 <img id='josie' src={Josie} alt='josie' />
-                 <img id='phone' src={Phone} alt='phone' />
-            </div>
+        <Link to={'/Senior-Portfolio-Page/photo/parlor-express'} id='parlor-card' page='photo'><b>Parlor Express F/W 2022</b></Link>
+        <Link to={'/Senior-Portfolio-Page/photo/white-crosses'} id='whitecross-card' page='photo'>
+            <img src={Jordan} alt='white-cross-placeholder' id='cross-placeholder'></img>
+            <b>White Crosses</b>
+        </Link>
+
         </div>
     )
 }
