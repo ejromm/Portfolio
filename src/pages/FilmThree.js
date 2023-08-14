@@ -6,7 +6,7 @@ export default function FilmThree() {
     return (
         <div className='film-container'>
             <div className='film-list-container'>
-            <Link to={'/Senior-Portfolio-Page/film/interview'} page='film'><b>Interview (2023)</b></Link>
+            <Link to={'/Senior-Portfolio-Page/film/interview'} page='film'>Interview (2023)</Link>
             <Link to={'/Senior-Portfolio-Page/film/untitled'} page='film'>Untitled (2022)</Link>
             <Link to={'/Senior-Portfolio-Page/film/nancyraygun'} page='film'><b>Nancy Raygun for Amnesty International (2021)</b></Link>
             
