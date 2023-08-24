@@ -26,7 +26,7 @@ export default function Film() {
             <span className={isBold === 3 ? 'film-list-item bold' : 'film-list-item'}   onClick={() => changeVideo("https://www.youtube.com/embed/nfZ_9TyFk1k?si=mG5EB69iKYgY6IrQ", 3)}>A Visual Epitaph for a Bee in the Window (2020)</span>
             </div>
             <div className='film-grid'>
-            <iframe src={currentVideo} frameBorder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen  title="ethan-ss.mp4"></iframe>
+            <iframe src={currentVideo} frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowFullScreen  title="ethan-ss.mp4"></iframe>
             </div>
         </div>
     )

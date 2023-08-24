@@ -11,7 +11,7 @@ export default function Footer() {
                 <div className='footer'>
                 <div className='footer-header'>
                     
-                    <img></img>       
+                          
                 </div> 
                    
                 <div className='footer-end'>
