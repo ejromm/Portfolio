@@ -1,21 +1,24 @@
 .film-container {
-    height: 90vh;
+    height: 80vh;
     width: 100vw;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
     
+    padding-left: 1%;
     
-
+    gap: 1%;
 }
 
 .film-grid {
-    height: 85vh;
+    height: 80vh;
     width: 70vw;
     display: flex;
-    align-items: center;
+    padding-top: 2%;
     justify-content: center;
+    
+    
 }
 .film-list-item {
     
@@ -26,7 +29,7 @@ video {
     width: 100%;
 }
 .film-list-container {
-    height: 85vh;
+    height: 80vh;
     width: 15vw;
     display: flex;
     flex-direction: column;
@@ -35,6 +38,8 @@ video {
     gap: 5%;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+    
+    
     
     
 }

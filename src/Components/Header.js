@@ -1,6 +1,6 @@
 import React from 'react'; 
 import '../styles/Header.css'; 
-
+import NavBar from './NavBar';
 export default function Header() {
 
 
@@ -8,6 +8,7 @@ export default function Header() {
         <>
          <div className='header'>
           <span>Ethan Romm</span>
+          <NavBar />
          </div>
          
         </>
