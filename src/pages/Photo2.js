@@ -1,6 +1,8 @@
-import React, { useEffect, useState } from 'react'; 
+import React, { useState } from 'react'; 
 import '../styles/Photo.css'; 
 import Jordan from '../assets/Jordan-Portrait-1 copy.jpg'; 
+import Jordan2 from '../assets/jordi 3.jpg';
+import Jordan3 from '../assets/jordi 11.jpg'; 
 import SignOne from '../assets/img20230430_16315165.jpg'; 
 import Mirror from '../assets/Final_RommEthan_0423-001.jpg'; 
 import SignTwo from '../assets/Final_RommEthan_0423-005.jpg'; 
@@ -9,8 +11,10 @@ export default function PhotoTwo() {
     const slides = [
         Jordan,
         SignOne,
+        Jordan2,
         Mirror,
         SignTwo,
+        Jordan3,
         Phone,
     ]
     const [currentIndex, setCurrentIndex] = useState(0);
@@ -24,6 +28,7 @@ export default function PhotoTwo() {
     }
     
     const dotsContainerStyles = {
+        height: '5vh',
         display: 'flex', 
         justifyContent: 'center',
         alignItems: 'center',

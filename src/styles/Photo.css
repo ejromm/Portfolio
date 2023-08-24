@@ -6,7 +6,7 @@
     
     font-family: 'Courier New', Courier, monospace;
 }
-#parlor-card, #whitecross-card, #idaho-card {
+#parlor-card, #olddominion-card, #idaho-card {
   
     height: 30vh;
     width: 200px;
@@ -17,14 +17,14 @@
     
     
 }
-#cross-placeholder, #idaho-placeholder {
+#od-placeholder, #idaho-placeholder {
     object-fit: contain;
     height: 80%;
     max-width: 100%;
     
 }
-.photo-2-container {
-    height: 85vh;
+.photo-2-container, .photo-3-container {
+    height: 75vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
