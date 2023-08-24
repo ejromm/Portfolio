@@ -9,12 +9,17 @@
     
 
 }
+
 .film-grid {
     height: 85vh;
     width: 70vw;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.film-list-item {
+    
+    font-size: .8rem;
 }
 video {
     height: 100%;
@@ -23,7 +28,6 @@ video {
 .film-list-container {
     height: 85vh;
     width: 15vw;
-    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -34,16 +38,12 @@ video {
     
     
 }
-
-.film-list-container a {
-    text-decoration: none;
-    font-size: .8rem;
-    font-weight: 100;
-}
 iframe {
     position:absolute; 
     width: 70vw;
     height: 70vh;
    
 }
-
+.bold {
+    font-weight: 700;
+}
