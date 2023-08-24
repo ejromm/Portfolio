@@ -11,11 +11,11 @@ export default function Photo() {
         <Link to={'/Senior-Portfolio-Page/photo/parlor-express'} id='parlor-card' page='photo'><b>Parlor Express F/W 2022</b></Link>
         <Link to={'/Senior-Portfolio-Page/photo/white-crosses'} id='whitecross-card' page='photo'>
             <img src={Jordan} alt='white-cross-placeholder' id='cross-placeholder'></img>
-            <b>Old Dominion</b>
+            <i>Old Dominion</i>
         </Link>
         <Link to={'/Senior-Portfolio-Page/photo/private-idaho'} id='idaho-card' page='photo'>
             <img src={Smiley} alt='idaho-placeholder' id='idaho-placeholder'></img>
-            <b>Private Idaho</b>
+            <i>Private Idaho</i>
         </Link>
 
         </div>
