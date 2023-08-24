@@ -30,6 +30,7 @@
     justify-content: center;
     align-items: center;
 }
+
 @media screen and (max-width: 850px) {
     .photo-container {
         display: flex;

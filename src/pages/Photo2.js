@@ -18,30 +18,11 @@ export default function PhotoTwo() {
     const slideStlyes = {
         height: '100%',
         objectFit: 'contain',
-        width: 'auto',
+        maxWidth: '90%',
         justifySelf: 'center',
         alignSelf: 'center'
     }
-    const leftArrowStyles = {
-        position: 'absolute', 
-        top: '50%', 
-        transform: 'translate(0, -50%)', 
-        left: '32px', 
-        fontSize: '45px', 
-        color: '#fff', 
-        zIndex: '1', 
-        cursor: 'pointer',
-    }
-    const rightArrowStyles = {
-        position: 'absolute', 
-        top: '50%', 
-        transform: 'translate(0, -50%)', 
-        right: '32px', 
-        fontSize: '45px', 
-        color: '#fff', 
-        zIndex: '1', 
-        cursor: 'pointer',
-    }
+    
     const dotsContainerStyles = {
         display: 'flex', 
         justifyContent: 'center',
@@ -52,7 +33,7 @@ export default function PhotoTwo() {
         margin: '0 3px',
         cursor: 'pointer',
         fontSize: '20px',
-        color: 'white'
+        color: 'black'
     }
    
     const goToSlide = (slideIndex) => {
@@ -62,7 +43,7 @@ export default function PhotoTwo() {
         <>
         <div className='photo-2-container'>
            
-            <img src={slides[currentIndex]} style={slideStlyes} alt='carousel-img' />
+            <img  src={slides[currentIndex]} style={slideStlyes} alt='carousel-img' />
             
         </div>
         <div  style={dotsContainerStyles}>
