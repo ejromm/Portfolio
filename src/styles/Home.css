@@ -10,17 +10,18 @@
 }
 .home-imgs-container {
     height: 480px;
-    width: 600px;
+    width: 420px;
     font-family: monospace;
     white-space: pre;
-    font-size: .25rem;
+    font-size: .15rem;
+    
 }
 
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 450px) {
     .home-imgs-container {
         height: 280px;
-        width: 350px;
-        font-size: .12rem;
+        width: 220px;
+        font-size: .08rem;
     }
   }

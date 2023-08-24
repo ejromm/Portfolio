@@ -10,10 +10,10 @@ import Phone from '../assets/img20230430_16072906.jpg';
 export default function PhotoTwo() {
     const slides = [
         Jordan,
-        SignOne,
+        SignTwo,
         Jordan2,
         Mirror,
-        SignTwo,
+        SignOne,
         Jordan3,
         Phone,
     ]
