@@ -24,7 +24,7 @@
 }
 .film-list-item {
     
-    font-size: .8rem;
+    font-size: .7rem;
 }
 
 .film-list-container {
@@ -57,8 +57,15 @@
     }
     .film-list-container {
         width: 95vw;
-        height: 15vh;
-        flex-direction: row;
+        height: 20vh;
+        display: grid;
+        grid-template-columns: repeat(6, 12vw);
+        align-items: center;
+        justify-content: center;
+
+    }
+    .film-list-item {
+        font-size: .5rem;
     }
     .film-grid {
         height: 65vh;
@@ -76,6 +83,6 @@
 }
 @media screen and (max-width: 650px) {
     .film-list-item {
-        font-size: 1.4vw;
+        font-size: .4rem;
     }
 }
