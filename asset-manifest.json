@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Senior-Portfolio-Page/static/css/main.7b3c2993.css",
-    "main.js": "/Senior-Portfolio-Page/static/js/main.cdbf1bf1.js",
+    "main.css": "/Senior-Portfolio-Page/static/css/main.efc6d88b.css",
+    "main.js": "/Senior-Portfolio-Page/static/js/main.841fde6c.js",
     "static/media/Final_RommEthan_0423-005.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-005.29592f1d1658048d7134.jpg",
     "static/media/Final_RommEthan_0423-001.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-001.540c5d917b20d79e0ba5.jpg",
     "static/media/000038060006.jpg": "/Senior-Portfolio-Page/static/media/000038060006.35375ec8c142c198a55a.jpg",
@@ -17,11 +17,11 @@
     "static/media/Eina01-Bold.ttf": "/Senior-Portfolio-Page/static/media/Eina01-Bold.8637c276e69661847b38.ttf",
     "static/media/VeraMono.ttf": "/Senior-Portfolio-Page/static/media/VeraMono.16fc2e6c12bb25ab34c1.ttf",
     "index.html": "/Senior-Portfolio-Page/index.html",
-    "main.7b3c2993.css.map": "/Senior-Portfolio-Page/static/css/main.7b3c2993.css.map",
-    "main.cdbf1bf1.js.map": "/Senior-Portfolio-Page/static/js/main.cdbf1bf1.js.map"
+    "main.efc6d88b.css.map": "/Senior-Portfolio-Page/static/css/main.efc6d88b.css.map",
+    "main.841fde6c.js.map": "/Senior-Portfolio-Page/static/js/main.841fde6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b3c2993.css",
-    "static/js/main.cdbf1bf1.js"
+    "static/css/main.efc6d88b.css",
+    "static/js/main.841fde6c.js"
   ]
 }
