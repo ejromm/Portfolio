@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Senior-Portfolio-Page/static/css/main.efc6d88b.css",
-    "main.js": "/Senior-Portfolio-Page/static/js/main.841fde6c.js",
+    "main.css": "/Senior-Portfolio-Page/static/css/main.6ec2abf1.css",
+    "main.js": "/Senior-Portfolio-Page/static/js/main.d276b9a2.js",
     "static/media/Final_RommEthan_0423-005.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-005.29592f1d1658048d7134.jpg",
     "static/media/Final_RommEthan_0423-001.jpg": "/Senior-Portfolio-Page/static/media/Final_RommEthan_0423-001.540c5d917b20d79e0ba5.jpg",
     "static/media/000038060006.jpg": "/Senior-Portfolio-Page/static/media/000038060006.35375ec8c142c198a55a.jpg",
@@ -13,15 +13,19 @@
     "static/media/img20230430_16315165.jpg": "/Senior-Portfolio-Page/static/media/img20230430_16315165.76578f3458ec77f3fc47.jpg",
     "static/media/000038060005.jpg": "/Senior-Portfolio-Page/static/media/000038060005.dbc9c741c0760b5eb45c.jpg",
     "static/media/jordi 11.jpg": "/Senior-Portfolio-Page/static/media/jordi 11.1fa1c44d6fbbe8cf2ee8.jpg",
+    "static/media/Parlor2.JPG": "/Senior-Portfolio-Page/static/media/Parlor2.d5ce16a4a9b3e1cb9535.JPG",
+    "static/media/Parlor1.JPG": "/Senior-Portfolio-Page/static/media/Parlor1.b20a874d661b4098937d.JPG",
+    "static/media/Parlor3.JPG": "/Senior-Portfolio-Page/static/media/Parlor3.bda4030e7e80ed61e528.JPG",
+    "static/media/Parlor4.JPG": "/Senior-Portfolio-Page/static/media/Parlor4.e2409108a82fc3cbcc40.JPG",
     "static/media/Eina01-Regular.ttf": "/Senior-Portfolio-Page/static/media/Eina01-Regular.2f3ebc72a376a3305bfc.ttf",
     "static/media/Eina01-Bold.ttf": "/Senior-Portfolio-Page/static/media/Eina01-Bold.8637c276e69661847b38.ttf",
     "static/media/VeraMono.ttf": "/Senior-Portfolio-Page/static/media/VeraMono.16fc2e6c12bb25ab34c1.ttf",
     "index.html": "/Senior-Portfolio-Page/index.html",
-    "main.efc6d88b.css.map": "/Senior-Portfolio-Page/static/css/main.efc6d88b.css.map",
-    "main.841fde6c.js.map": "/Senior-Portfolio-Page/static/js/main.841fde6c.js.map"
+    "main.6ec2abf1.css.map": "/Senior-Portfolio-Page/static/css/main.6ec2abf1.css.map",
+    "main.d276b9a2.js.map": "/Senior-Portfolio-Page/static/js/main.d276b9a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.efc6d88b.css",
-    "static/js/main.841fde6c.js"
+    "static/css/main.6ec2abf1.css",
+    "static/js/main.d276b9a2.js"
   ]
 }
