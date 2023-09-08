@@ -14,10 +14,11 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+    font-size: .8rem;
+  
     
 }
-#od-placeholder, #idaho-placeholder {
+#od-placeholder, #idaho-placeholder, #prlr-placeholder {
     object-fit: contain;
     height: 80%;
     max-width: 100%;
